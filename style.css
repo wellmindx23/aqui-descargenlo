@@ -27,12 +27,12 @@ ul{
 
 /* Esto es pa la navegacion namas*/
 .nav-main{
-    font-size: 17px;
+    font-size: 22px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 60px;
-    padding: 20px 0;
+    height: 80px;
+    padding: 50px 0;
 
 }
 .nav-brand{
@@ -68,6 +68,17 @@ ul{
     font-size: 1.5rem;
     display: none;
     
+}
+h4{
+    font-size: 2em;
+}
+.ki{
+    text-align: center;
+    font-size: 2em;
+    font-style: italic bold;
+    
+    font-style: bold;
+    margin-bottom: 20px;
 }
 
 /* showcase */
@@ -140,7 +151,7 @@ hr{
 .cards-banner-one{
     width: 100%;
     height: 350px;
-    background: url(img/fla.jpg)no-repeat center center/cover;
+    background: url(img/img7.jpg_large)no-repeat center center/cover;
     margin-bottom: 40px;
 }
 
